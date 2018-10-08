@@ -1,2 +1,2 @@
 # test-
-first test repo for the Masters
+first test repo for the Masters in app development
